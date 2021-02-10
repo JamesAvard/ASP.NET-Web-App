@@ -1,0 +1,183 @@
+[
+	{
+		"ClubName": "Arsenal",
+		"League": "Premier League",
+		"StadiumName": "Emirates Stadium",
+		"Img": "data/Images/Arsenal.jpg",
+		"City": "London",
+		"Capacity": "60,704",
+		"background": "#ce1040"
+
+	},
+	{
+		"ClubName" : "Aston Villa",
+		"League" : "Premier League",
+		"StadiumName" : "Villa Park",
+		"Img" : "data/Images/Villa.jpg",
+		"City" : "Birmingham",
+		"Capacity" : "42,785",
+		"background": "#660032"	
+	},
+	{
+		"ClubName" : "Brighton & Hove Albion",
+		"League" : "Premier League",
+		"StadiumName" : "Amex Stadium",
+		"Img" : "data/Images/Brighton.jpg",
+		"City" : "Brighton",
+		"Capacity" : "30,740",
+		"background": "#005dab"		
+	},
+	{
+		"ClubName" : "Burnley",
+		"League" : "Premier League",
+		"StadiumName" : "Turf Moor",
+		"Img" : "data/Images/Burnley.jpg",
+		"City" : "Burnley",
+		"Capacity" : "21,944",
+		"background": "#630f33"		
+	},
+	{
+		"ClubName" : "Chelsea",
+		"League" : "Premier League",
+		"StadiumName" : "Stamford Bridge",
+		"Img" : "data/Images/Chelsea.jpg",
+		"City" : "London",
+		"Capacity" : "40,838",
+		"background": "#024792"
+			},
+	{
+		"ClubName" : "Crystal Palace",
+		"League" : "Premier League",
+		"StadiumName" : "Selhurst Park",
+		"Img" : "data/Images/Palace.jpg",
+		"City" : "London",
+		"Capacity" : "25,486",
+		"background": "#c4112e"		
+	},
+	{
+		"ClubName" : "Everton",
+		"League" : "Premier League",
+		"StadiumName" : "Goodison Park",
+		"Img" : "data/Images/Everton.jpg",
+		"City" : "Liverpool",
+		"Capacity" : "39,414",
+		"background": "#004495"		
+	},
+	{
+		"ClubName" : "Fulham",
+		"League" : "Premier League",
+		"StadiumName" : "Craven Cottage",
+		"Img" : "data/Images/Fulham.jpg",
+		"City" : "London",
+		"Capacity" : "19,000",
+		"background": "Black"		
+	},
+	{
+		"ClubName" : "Leeds United",
+		"League" : "Premier League",
+		"StadiumName" : "Elland Road",
+		"Img" : "data/Images/Leeds.jpg",
+		"City" : "Leeds",
+		"Capacity" : "37,890",
+		"background": "#0060aa"		
+	},
+	{
+		"ClubName" : "Leicester City",
+		"League" : "Premier League",
+		"StadiumName" : "King Power Stadium",
+		"Img" : "data/Images/Leicester.jpg",
+		"City" : "Leicester",
+		"Capacity" : "32,312",
+		"background": "#1666d8"		
+	},
+	{
+		"ClubName" : "Liverpool",
+		"League" : "Premier League",
+		"StadiumName" : "Anfield",
+		"Img" : "data/Images/Liverpool.jpg",
+		"City" : "Liverpool",
+		"Capacity" : "53,394",
+		"background": "#b8192b"		
+	},
+	{
+		"ClubName" : "Manchester City",
+		"League" : "Premier League",
+		"StadiumName" : "Etihad Stadium",
+		"Img" : "data/Images/City.jpg",
+		"City" : "Manchester",
+		"Capacity" : "55,097",
+		"background": "#83bdeb"
+	},
+	{
+		"ClubName" : "Manchester United",
+		"League" : "Premier League",
+		"StadiumName" : "Old Trafford",
+		"Img" : "data/Images/United.jpg",
+		"City" : "Manchester",
+		"Capacity" : "74,879",
+		"background": "#df1b1f"
+	},
+	{
+		"ClubName" : "Newcastle United",
+		"League" : "Premier League",
+		"StadiumName" : "St James' Park",
+		"Img" : "data/Images/Newcastle.png",
+		"City" : "Newcastle upon Tyne",
+		"Capacity" : "52,388",
+		"background": "Black"
+	},
+	{
+		"ClubName" : "Sheffield United",
+		"League" : "Premier League",
+		"StadiumName" : "Bramall Lane",
+		"Img" : "data/Images/Sheffield.jpg",
+		"City" : "Sheffield",
+		"Capacity" : "32,125",
+		"background": "#e3182e"
+	},
+	{
+		"ClubName" : "Southampton",
+		"League" : "Premier League",
+		"StadiumName" : "St Mary's Stadium",
+		"Img" : "data/Images/Saints.jpg",
+		"City" : "Southampton",
+		"Capacity" : "32,505",
+		"background": "#cd1e25"
+	},
+	{
+		"ClubName" : "Tottenham Hotspur",
+		"League" : "Premier League",
+		"StadiumName" : "Tottenham Hotspur Stadium",
+		"Img" : "data/Images/Spurs.jpg",
+		"City" : "London",
+		"Capacity" : "62,303",
+		"background": "#001a57"
+	},
+	{
+		"ClubName" : "West Bromwich Albion",
+		"League" : "Premier League",
+		"StadiumName" : "The Hawthorns",
+		"Img" : "data/Images/Westbrom.jpg",
+		"City" : "West Bromwich",
+		"Capacity" : "26,850",
+		"background": "#0e1134"
+	},
+	{
+		"ClubName" : "West Ham United",
+		"League" : "Premier League",
+		"StadiumName" : "London Stadium",
+		"Img" : "data/Images/Westham.jpg",
+		"City" : "London",
+		"Capacity" : "60,000",
+		"background": "#7d2c3b"
+	},
+	{
+		"ClubName" : "Wolverhampton Wanderers",
+		"League" : "Premier League",
+		"StadiumName" : "Molineux Stadium",
+		"Img" : "data/Images/Wolves.jpg",
+		"City" : "Wolverhampton",
+		"Capacity" : "32,050",
+		"background": "#feb914"
+	}		
+]

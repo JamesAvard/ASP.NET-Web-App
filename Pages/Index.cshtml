@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="card-columns">
+    @foreach (var club in Model.Clubs)
+    {
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <div class="card-img" style="background-image: url('@club.Img');"></div>
+                </div>
+                <div class="card-back" style="background-color: @club.background;">
+                    <h3 style=" text-align:center;">@club.ClubName</h3>
+                    <p>Location: @club.City</p>
+                    <p>Stadium Name: @club.StadiumName</p>
+                    <p>Capacity: @club.Capacity</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
